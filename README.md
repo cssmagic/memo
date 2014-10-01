@@ -1,20 +1,18 @@
 # Memo
 
-## 简介
+> 日常开发要用到的知识和资料记不住怎么办？
 
-“日常开发要用到的知识和资料记不住怎么办？”
+好记性不如烂笔头，这个项目就是前端工程师的烂笔头——前端资料全搜罗！
 
-好记性不如烂笔头，这个项目就是前端工程师的烂笔头。
+[想查什么？点此搜索！](https://github.com/cssmagic/memo/search?type=Issues&q=html)
 
-## 关于作者
+***
 
-@CSS魔法，Web 前端工程师、交互设计师，[更多信息……](https://github.com/cssmagic/blog/issues/9)
-
-## 如何参与
+#### 如何参与
 
 任何投稿、建议、投诉，[请直接联系作者](https://github.com/cssmagic/blog/issues/9)。
 
-## 版权协议
+#### 版权协议
 
 除注明外，所有文章均采用 [Creative Commons BY-NC-ND 3.0（自由转载-保持署名-非商用-非衍生）](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh) 协议发布。
 
